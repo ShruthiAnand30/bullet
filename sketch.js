@@ -32,7 +32,7 @@ function draw() {
     }
 
     if(damage<10){
-      wall.shapeColor=color(0,255,0);
+      wall.shapeColor=color(3,235,12);
     }
   }
   drawSprites();
