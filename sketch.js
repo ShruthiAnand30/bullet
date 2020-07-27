@@ -32,7 +32,7 @@ function draw() {
     }
 
     if(damage<10){
-      bullet.shapeColor=color(230,230,0);
+      wall.shapeColor=color(230,230,0);
     }
   }
   drawSprites();
